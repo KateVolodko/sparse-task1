@@ -1,0 +1,12 @@
+fileA
+fileB
+fileC
+fileD
+*.gz
+result.txt
+src/sparse_tool
+*.o
+*.exe
+*.tmp
+*.swp
+.DS_Store
